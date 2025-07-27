@@ -4,8 +4,6 @@
   🚀 Frontend Developer | HTML, CSS, Tailwind, JavaScript, React
 </p>
 
----
-
 ### 🧰 Технологии
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
