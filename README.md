@@ -1,17 +1,8 @@
 <h1 align="center">Hi there, I'm Muhammad 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer | HTML, CSS, Tailwind, JavaScript  
+  🚀 Frontend Developer | HTML, CSS, Tailwind, JavaScript, React
 </p>
-
----
-
-### 💡 Обо мне
-
-- 🌱 Сейчас учусь фронтенду и делаю учебные проекты
-- 🛠️ Изучаю: React, Next
-- 🔧 Практикуюсь на небольших сайтах, компонентах и интерфейсах
-- 🤖 У меня есть Telegram-бот с моими работами
 
 ---
 
@@ -22,13 +13,6 @@
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-
-
----
-
-
-
-_📌 Эти проекты находятся в репозиториях ниже на странице._
 
 ---
 
