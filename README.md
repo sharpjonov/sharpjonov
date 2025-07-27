@@ -4,7 +4,7 @@
   🚀 Frontend Developer | HTML, CSS, Tailwind, JavaScript, React
 </p>
 
-### 🧰 Технологии
+
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -14,20 +14,18 @@
 
 ---
 
-### 📊 GitHub статистика
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharpjonov&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharpjonov&layout=compact&theme=tokyonight)
 
 ---
 
-### 📲 Telegram бот-портфолио
+### Telegram бот-портфолио
 
 [👉 Перейти в Telegram-бота](https://t.me/sharipjonov_bot)
 
 ---
 
-### 📫 Как связаться?
+### Как связаться?
 
 - Telegram: [@sharpjonov](https://t.me/sharpjonov)
